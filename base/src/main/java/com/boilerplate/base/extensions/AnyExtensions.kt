@@ -7,6 +7,7 @@ import com.boilerplate.base.BuildConfig
 import androidx.core.content.ContextCompat.getSystemService
 
 import android.net.ConnectivityManager
+import android.widget.Toast
 import androidx.core.content.ContextCompat
 
 
@@ -15,4 +16,3 @@ fun Any.logd(tag:String, value:String){
         Log.d(tag,value)
     }
 }
-
