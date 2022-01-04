@@ -1,6 +1,5 @@
 package com.example.androidboilderplatecode.repository
 
-import com.boilerplate.base.retrofit.RetrofitClient
 import com.example.androidboilderplatecode.network.RetrofitApi
 import com.google.gson.JsonElement
 import retrofit2.Call
